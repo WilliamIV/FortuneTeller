@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe.config
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Fortune Teller App\Fortune Teller App\bin\Debug\Fortune Teller App.pdb
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.csprojResolveAssemblyReference.cache
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Fortune Teller App\Fortune Teller App\obj\Debug\Fortune Teller App.pdb
